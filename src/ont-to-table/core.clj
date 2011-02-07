@@ -1,4 +1,4 @@
-(ns vivo-ontology-converter.core
+(ns ont-to-model.core
   (:require [clojure.java.io :as io])
   (:use [clojure.contrib.str-utils :only (str-join)]
         [plaza.rdf core sparql]
