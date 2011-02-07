@@ -1,0 +1,13 @@
+# vivo-ontology-converter
+
+Converts an ontology that defines new classes to an org-mode tables (emacs).
+
+## Usage
+
+(output-document "local-file-path" "output-file-p[ath
+
+## License
+
+Copyright (C) 2010 FIXME
+
+Distributed under the Eclipse Public License, the same as Clojure.
